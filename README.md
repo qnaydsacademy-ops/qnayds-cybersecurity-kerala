@@ -71,5 +71,5 @@ Explore our practical, lab-based training programs:
 🔗 **Website:** [https://hackers-academy.qnayds.in/](https://hackers-academy.qnayds.in/)
 
 ---
-*Maintained by QNAYDS Academy | Kochi, Kerala*<img width="1280" height="853" alt="WhatsApp Image 2026-10-02 at 10 13 01" src="https://github.com/user-attachments/assets/2b51d92f-2ec6-4450-b155-c4d78e4bd0b4" />
+*Maintained by QNAYDS Academy | malappuram, Kerala*<img width="1280" height="853" alt="WhatsApp Image 2026-10-02 at 10 13 01" src="https://github.com/user-attachments/assets/2b51d92f-2ec6-4450-b155-c4d78e4bd0b4" />
 
